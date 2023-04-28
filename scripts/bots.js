@@ -81,7 +81,7 @@ function resetallbotitems() {
 cliffe = new Bot('fair', 'Banned (&beta;)', "Elite")
 crusher = new Bot('sniper', 'Roflzilla (&beta;)', "Elite")
 gunner = new Bot('fair', 'MUTE (&beta;)', "Elite")
-minh = new Bot('lowballer', 'The Zedder (&beta;)', "Elite")
+minh = new Bot('lowballer', 'The COOLMAN (&beta;)', "Elite")
 garret = new Bot('fair', 'Arachnix (&beta;)', "Elite")
 pheonix = new Bot('sniper', 'Haloser (&beta;)', "Elite")
 ridgway = new Bot('fair', 'Stupid Guy (&beta;)', "Elite")
