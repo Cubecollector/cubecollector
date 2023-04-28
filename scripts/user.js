@@ -1,5 +1,5 @@
 user = {
-	money: 10000000,
+	money: 100000000,
 	boxes: [],
 	inventory: [],
 	name: "Player",
