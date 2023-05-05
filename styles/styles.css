@@ -10,7 +10,7 @@ user-select: none;
 html,body {
 height: 100%;
 margin: 0;
-background-color: #303036;
+background-color: #9b22c0;
 }
 #app {
 display: flex;
@@ -77,7 +77,7 @@ color: white;
 }
 .topbarcontainer {
   height: 5%;
-  background-color: black;
+  background-color: rgb(8, 8, 8);
 }
 #topbar {
 width:100%;
